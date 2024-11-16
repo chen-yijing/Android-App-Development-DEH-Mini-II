@@ -74,11 +74,16 @@
 ---
 
 ## **DEH App Tutorial Video**
-- For a quick overview of the DEH App's features and operations, watch the following tutorial:
+- For a quick overview of the DEH App's features and operations, watch the following tutorial: 
 
   [![DEH App Tutorial Video](https://img.youtube.com/vi/E-8ipiMvGmI/0.jpg)](https://www.youtube.com/shorts/E-8ipiMvGmI)
 
 ---
 
 ## **Code Availability**
-- Due to the large size of the project files, uploading them to GitHub resulted in unreadable files. The complete source code is available at the following cloud storage link: https://drive.google.com/file/d/1ICX2_PHrB04weGTlSL0rUmp_9oDM1jNS/view?usp=drive_link
+- Due to the large size of the project files, uploading them to GitHub resulted in unreadable files. The complete source code is available at the following cloud storage link: [Cloud Link to Source Code](https://drive.google.com/file/d/1ICX2_PHrB04weGTlSL0rUmp_9oDM1jNS/view?usp=drive_link)
+
+---
+
+## **Google Play Store**
+- The app is available for download on the Google Play Store at the following link: [Download DEH Mini II on Google Play Store](https://play.google.com/store/apps/details?id=com.mmlab.m1&hl=zh_TW)
