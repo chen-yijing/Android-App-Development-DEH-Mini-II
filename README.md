@@ -81,7 +81,8 @@
 ---
 
 ## **Code Availability**
-- Due to the large size of the project files, uploading them to GitHub resulted in unreadable files. The complete source code is available at the following cloud storage link: [Cloud Link to Source Code](https://drive.google.com/file/d/1ICX2_PHrB04weGTlSL0rUmp_9oDM1jNS/view?usp=drive_link)
+- The latest modifications to this project were made until **October 2024**.  
+- While the GitHub repository shows the last update as **2023**, this is because the project's file size made uploading to GitHub infeasible. Files became unreadable, so the final version of the source code is provided via a cloud storage link: [Cloud Link to Source Code](https://drive.google.com/file/d/1ICX2_PHrB04weGTlSL0rUmp_9oDM1jNS/view?usp=drive_link)
 
 ---
 
