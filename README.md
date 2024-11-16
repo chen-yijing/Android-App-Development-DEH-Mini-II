@@ -1,4 +1,4 @@
-# DEH Mini II Android App Development
+# Android App Development - DEH Mini II 
 
 - ### Project Name:
   - DEH Mini II  
